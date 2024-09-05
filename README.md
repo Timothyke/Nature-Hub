@@ -21,7 +21,7 @@ Installation
 Clone this repository:
 bash
 Copy code
-git clone https://github.com/your-username/nature_hub.git
+git clone https://github.com/Timothyke/nature_hub.git
 Navigate to the project directory:
 bash
 Copy code
