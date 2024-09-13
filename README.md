@@ -13,7 +13,7 @@ Encourage love and care for the environment.
 Increase awareness of conservation efforts and the importance of biodiversity.
 Serve as an educational platform to inspire curiosity about the natural world.
 🚀 Getting Started
-Follow these steps to get Nature Hub up and running on your local machine.
+Follow these steps to run Nature Hub on your local machine.
 
 Prerequisites
 Install Node.js or any dependencies your project requires (update this section with the correct technology stack).
@@ -52,4 +52,4 @@ Create a Pull Request.
 This project is licensed under the MIT License – see the LICENSE file for details.
 
 🌍 Support and Feedback
-If you have any questions, suggestions, or want to report issues, feel free to open an issue on GitHub or contact us via email at [timothymaina040@gmail.com].
+If you have any questions, or suggestions, or want to report issues, feel free to open an issue on GitHub or contact us via email at timothymaina040@gmail.com.
